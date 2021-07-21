@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Testing_RecycleView</string>
+    <string-array name="languages">
+        <item>c#</item>
+        <item>c++</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>MARKEL</item>
+        <item>jean marie marcel</item>
+        <item>joris</item>
+        <item>alex</item>
+        <item>castle</item>
+        <item>monitro</item>
+    </string-array>
+</resources>
